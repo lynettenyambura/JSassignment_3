@@ -12,5 +12,10 @@ function isPalindrome(str) {
   console.log(isPalindrome('hello'));  // false
   console.log(isPalindrome('A man, a plan, a canal, Panama!'));  // true
   
-  
+//example 2
+
+//   const is_palindrome = str => str.split('').reverse().join('') === str;
+// console.log(is_palindrome('madam'));
+// console.log(is_palindrome('book'));
+// console.log(is_palindrome('dad'));
   
